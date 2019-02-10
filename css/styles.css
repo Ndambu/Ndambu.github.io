@@ -1,0 +1,16 @@
+h1 {
+  color: maroon;
+  text-align: center;
+}
+h2 {
+  color: blue;
+  text-align: center;
+}
+body{
+  background-image: scr="image//image.jpg";
+  background-size: auto;
+  background-color: gray;
+}
+img {
+  float: left;
+}
